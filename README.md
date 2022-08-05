@@ -4,19 +4,18 @@
 
 ## Table of Contents
 * [Organization](#organization)
-* [Frameworks](#technologies-used)
+* [Frameworks](#frameworks)
 * [Name of the System](#features)
 
 
 
 ## Organization
-Verdon Parc Condo
+Verdon Parc Condo ![](images/verdon-parc-logo-large.png)
 
 
-## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+
+## Frameworks
+Wordpress ![](images/wordpress.png)
 
 
 ## Features
